@@ -1,4 +1,4 @@
-![Graph](./github-header.png)
+![Graph](https://github.com/buildable/.github/blob/main/profile/github-header.png?raw=true)
 
 ### Welcome to Buildable ⚡️
 
