@@ -22,10 +22,10 @@ Save hundreds of development hours by setting up webhooks and connecting APIs in
 
 ## Learn more 👇
 
-💻 Website: [https://buildable.dev](https://buildable.dev/)
-🏁 Get started: [https://app.buildable.dev/sign-in](https://app.buildable.dev/sign-in)
-📄 Docs: [https://docs.buildable.dev](https://docs.buildable.dev/)
-💬 Discord: [https://discord.com/invite/47AJ42Wzys](https://discord.com/invite/47AJ42Wzys)
-🐦 Twitter: [https://twitter.com/BuildableHQ](https://twitter.com/BuildableHQ)
-🚥 Roadmap: [https://roadmap.buildable.dev](https://roadmap.buildable.dev)
+💻 Website: [https://buildable.dev](https://buildable.dev/)<br />
+🏁 Get started: [https://app.buildable.dev/sign-in](https://app.buildable.dev/sign-in)<br />
+📄 Docs: [https://docs.buildable.dev](https://docs.buildable.dev/)<br />
+💬 Discord: [https://discord.com/invite/47AJ42Wzys](https://discord.com/invite/47AJ42Wzys)<br />
+🐦 Twitter: [https://twitter.com/BuildableHQ](https://twitter.com/BuildableHQ)<br />
+🚥 Roadmap: [https://roadmap.buildable.dev](https://roadmap.buildable.dev)<br />
 📣 Changelog: [https://buildable.dev/changelog](https://buildable.dev/changelog)
